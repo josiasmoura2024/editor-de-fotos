@@ -1,0 +1,5 @@
+{
+  "name": "Editor de Fotos de Produto com IA",
+  "description": "Um aplicativo para remover fundos e limpar fotos de produtos usando instruções baseadas em texto, desenvolvido com a API Gemini.",
+  "requestFramePermissions": []
+}
